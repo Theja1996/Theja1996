@@ -33,13 +33,16 @@
 
 <br />
 
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Theja's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Theja1996&show_icons=true&theme=radical" />
 
 </details>
+
 <br />
+
 <details>
   <summary>:zap: Most Used Languages</summary>
 
