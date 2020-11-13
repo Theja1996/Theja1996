@@ -28,3 +28,12 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Theja1996&show_icons=true&hide_border=true" />
+
+[website]: http://thejarasanjalee.000webhostapp.com
+[twitter]: https://twitter.com/TRasanjalee
+
+[instagram]:https://www.instagram.com
+[linkedin]: https://www.linkedin.com/in/theja-rasanjalee-b66302173
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+"# CODESTACKR" 
