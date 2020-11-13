@@ -1,9 +1,5 @@
 ### Hi there, I'm Theja Rasanjalee  👋
 
-
-
-Here are some ideas to get you started:
-
 ## I'm a Undergraduate,IT Enthusiast, Developer, and Volunteer!
 - 🔭 I’m currently studing at  Sabaragamuwa University of Sri Lanka (SUSL)!
 - 🌱 I’m currently learning everything 🤣
@@ -18,7 +14,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"   />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  />][instagram]
 
-<br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
@@ -32,15 +28,3 @@ Here are some ideas to get you started:
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 
-<br />
-<img align="left" alt="theja's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Theja1996&show_icons=true&hide_border=true" />
-
-<br />
-
-![Theja's github stats](https://github-readme-stats.vercel.app/api?username=Theja1996&show_icons=true&theme=radical)
-
-<br />
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theja1996)](https://github.com/anuraghazra/github-readme-stats)
