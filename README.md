@@ -2,12 +2,12 @@
 
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
-## I'm a Undergraduate,IT Enthusiast, Developer, and Volunteer!
+## I'm a Undergraduate,IT Enthusiast and Volunteer!
 - 🔭 I’m currently studing at  Sabaragamuwa University of Sri Lanka (SUSL)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Traveling, Hiking
+- ⚡ Fun fact: I love to Traveling, exploring and Hiking
 
 ### Connect with me:
 
