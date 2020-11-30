@@ -5,8 +5,6 @@
 ## I'm a Undergraduate,IT Enthusiast and Volunteer!
 - 🔭 I’m currently studing at  Sabaragamuwa University of Sri Lanka (SUSL)!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Traveling, exploring and Hiking
 
 ### Connect with me:
